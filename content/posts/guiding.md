@@ -15,9 +15,9 @@ More fundmentally, though, there are concerns that matter more.
 
 The first thing one must think about in any situation, including software, is the question of "why?".
 
-Without understanding the purpose of what one is creating, there is no conneciton to the problem. Without connecting to the problem, a solution is not really a solution.
+Without understanding the purpose of what one is creating, there is no connection to the problem. Without connecting to the problem, a solution is not really a solution.
 
-It solution without a connection to a problem is merely a guess.
+A solution without a connection to a problem is merely a guess.
 
 Thus we land on the first principle of software development: `Purpose`.
 
