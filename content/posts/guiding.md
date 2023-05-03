@@ -1,6 +1,7 @@
 ---
 title: "Guiding Principles"
 date: 2023-04-20T06:03:10-06:00
+tags: ["software", "guiding-principles"]
 ---
 
 This post is the first in a series on writing software. The idea is to articulate the thinking that goes behind being a competent and valuable software professional.

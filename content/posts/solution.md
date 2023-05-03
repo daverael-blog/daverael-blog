@@ -1,6 +1,7 @@
 ---
 title: "Solution"
 date: 2023-04-27T19:50:10-06:00
+tags: ["software", "guiding-principles"]
 ---
 
 This post is the second in a series on writing software.
