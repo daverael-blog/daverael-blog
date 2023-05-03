@@ -1,3 +1,4 @@
+baseurl = "https://daverael.com/"
 languageCode = "en-us"
 theme = "beautifulhugo"
 title = "Dave Rael on Software"
