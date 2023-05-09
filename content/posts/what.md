@@ -4,7 +4,7 @@ date: 2023-05-04T17:56:24-06:00
 tags: ["software", "guiding-principles"]
 ---
 
-This post is the second in a series on writing software.
+This post is the third in a series on writing software.
 
 [The first](/posts/guiding) introduced the most fundamental of the principles of concern in creating software. That of `purpose`.
 
